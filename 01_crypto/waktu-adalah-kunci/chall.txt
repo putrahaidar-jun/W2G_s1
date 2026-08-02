@@ -1,0 +1,3 @@
+ciphertext       = e7d1b1307f47a23589f58d0ec0080320055e47fc9ce2acd39cf4bb4c7d811c
+hint_timestamp   = 1785690743
+tolerance        = +-1500 detik  
